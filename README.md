@@ -1,7 +1,7 @@
 Tutorials_Ninja_E-commerce
 
-Description
-  
+**Description**
+
 This project is a demonstration of automated testing for the Tutorialsninja website using Selenium WebDriver and TestNG framework. The goal of the project is to automate various test scenarios to ensure the functionality, usability, and reliability of the website.
 
 The Tutorialsninja website is an e-commerce platform that offers a variety of products across different categories such as electronics, accessories, and software. The automated tests cover key functionalities of the website, including user authentication, product search, adding products to cart, navigating through product categories, managing wishlist and cart items, and logging out.
